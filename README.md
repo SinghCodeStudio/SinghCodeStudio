@@ -1,4 +1,4 @@
-![logo](https://github.com/SinghCodeStudio/SinghCodeStudio/blob/main/Modern%20Minimalist%20Simple%20Technology%20Banner%20(1).png)
+![logo](https://github.com/SinghCodeStudio/SinghCodeStudio/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Gagandeep Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
